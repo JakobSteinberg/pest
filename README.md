@@ -1,3 +1,4 @@
+This is a fork to add to the pest debugger a more detailed stepping and printing through all rules.
 
 <p align="center">
   <img src="https://raw.github.com/pest-parser/pest/master/pest-logo.svg?sanitize=true" width="80%"/>
